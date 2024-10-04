@@ -2,15 +2,15 @@
   "version": 2,
   "builds": [
     {
-      "src": ".html",
+      "src": "test.html",
       "use": "@vercel/static"
     },
     {
-      "src": "*.css",
+      "src": "*test.css",
       "use": "@vercel/static"
     },
     {
-      "src": "*.js",
+      "src": "*test.js",
       "use": "@vercel/static"
     },
     {
