@@ -15,7 +15,7 @@ function goToNextPage4() {
     window.location.href = "certificate.html"; 
 }
 function goToNextPage5() {
-    window.location.href = "drummer..html"; 
+    window.location.href = "drummer.html"; 
 }
 function goToNextPage6() {
     window.location.href = "student.html"; 
