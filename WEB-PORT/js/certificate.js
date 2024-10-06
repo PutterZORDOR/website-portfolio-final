@@ -2,7 +2,7 @@ function goToHome() {
     window.location.href = "test.html"; 
 }
 function goToProjects() {
-    window.location.href = "drummer..html "
+    window.location.href = "drummer.html "
 }
 function BackToProjects() {
     window.location.href = "test.html"; 
